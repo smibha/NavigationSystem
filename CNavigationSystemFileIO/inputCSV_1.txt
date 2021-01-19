@@ -1,0 +1,16 @@
+WP;Amsterdam;52.3731;4.8922
+WP;Darmstadt;49.8667;8.65
+WP;Berlin;52.5167;13.3833
+WP;Paris;48.8567;2.3508
+WP;Köln;50.95;6.9667
+WP;Bonn;50.7339;7.0997
+WP;HeidelBerg;49.4122;8.71
+WP;Hamburg;53.5653;10.0014
+POI;Golden Crone;Best Student pub in Darmstadt;RESTAURANT;49.5;8.6
+POI;Bonn Museum;Germany History;RESTAURANT;50.7176;7.11879
+POI;Vapiano;Good Pizza in Darmstadt;RESTAURANT;49.8709;8.63345
+POI;Prinz-Emil-Garten;Nice Park in Darmstadt city;RESTAURANT;49.8611;8.64997
+POI;Eifel Tower;Biggest man made Monument;RESTAURANT;48.8586;2.29436
+POI;Les Tablettes;Best in Paris - Very expensive;RESTAURANT;48.8708;2.28301
+POI;Parc de la Villette;Modern Park;RESTAURANT;48.913;2.38186
+POI;Irish Harp Pub;Irish Pub in Berlin;RESTAURANT;52.5022;13.3104

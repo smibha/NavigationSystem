@@ -1,0 +1,95 @@
+WP
+     name
+       Berlin_1    
+      latitude
+       0
+                
+   longitude
+     1
+
+POI
+    name
+     Error_1
+   longitude
+       8.3527
+       
+       
+    type
+      NONE
+      
+   description
+       This is the Mensa of the Univerity of Applied
+       Sciences in Darmstadt and is known to be the
+       best Mensa in the world.
+       
+   latitude
+     49.65
+
+POI
+    name
+     Mensa_1
+   longitude
+       8.3527
+       
+       
+    type
+      RESTAURANT
+      
+   description
+       This is the Mensa of the Univerity of Applied
+       Sciences in Darmstadt and is known to be the
+       best Mensa in the world.
+       
+       Note the blank line above that starts with 4 spaces
+       (not visible in print) and therefore belongs to
+       the description just like this continuation.
+   latitude
+     49.65
+
+WP
+     name
+       Berlin_2
+   latitude
+       2
+    longitude
+     2
+
+POI
+    name
+     Mensa_2
+   longitude
+       85
+    type
+      RESTAURANT
+   description
+       This is the Mensa of the Univerity of Applied
+       Sciences in Darmstadt and is known to be the
+       best Mensa in the world.
+       
+       Note the blank line above that starts with 4 spaces
+       (not visible in print) and therefore belongs to
+       the description just like this continuation.
+   latitude
+     49.65
+
+WP
+	name
+   		Berlin_3
+   latitude
+       3
+    longitude
+     3
+
+WP
+	name
+   		Error_2
+    longitude
+     3
+
+WP
+	name
+   		Error_3
+   	longitude
+       abcd  	
+    longitude
+     3
